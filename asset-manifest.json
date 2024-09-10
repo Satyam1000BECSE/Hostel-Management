@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hostel-management/static/css/main.a54a20ac.css",
+    "main.js": "/hostel-management/static/js/main.1b251469.js",
+    "static/js/453.ca589311.chunk.js": "/hostel-management/static/js/453.ca589311.chunk.js",
+    "index.html": "/hostel-management/index.html",
+    "main.a54a20ac.css.map": "/hostel-management/static/css/main.a54a20ac.css.map",
+    "main.1b251469.js.map": "/hostel-management/static/js/main.1b251469.js.map",
+    "453.ca589311.chunk.js.map": "/hostel-management/static/js/453.ca589311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54a20ac.css",
+    "static/js/main.1b251469.js"
+  ]
+}
