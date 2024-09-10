@@ -1,0 +1,19 @@
+.students-section {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .students-section table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .students-section table, th, td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  
+  .students-section th {
+    background-color: #f4f4f4;
+  }

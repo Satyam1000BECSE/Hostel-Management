@@ -1,0 +1,25 @@
+.rooms-section {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .room-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .room-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+  }
+  
+  .room-card.available {
+    background-color: #dff0d8;
+  }
+  
+  .room-card.unavailable {
+    background-color: #f2dede;
+  }
